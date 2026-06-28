@@ -1,0 +1,6 @@
+a. Tạo 3 file thì 3 file sẽ xuất hiện trong thư mục
+b. Khởi tạo repo local và xuất hiện folder .git
+c. Commit thất bại và thông báo lỗi vì chưa có file nào được add vào vùng staging
+d. file1 được đưa vào vùng staging
+e. Commit chứa file1 thành công
+f. Commit thất bại và thông báo lỗi do không có thay đổi trong vùng staging
