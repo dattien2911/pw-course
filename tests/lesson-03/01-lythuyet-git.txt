@@ -1,0 +1,7 @@
+git commit --amend là command dùng để chỉnh sửa commit gần nhất
+
+git commit --amend -m <message> là command dùng để chỉnh sửa message của commit gần nhất
+
+git restore --staged <file> dùng để bỏ file khỏi vùng staging
+
+git reset HEAD~1 dùng để hoàn tác commit gần nhất.
