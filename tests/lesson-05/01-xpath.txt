@@ -1,0 +1,23 @@
+Lấy input “Họ và tên”
+/html/body/div/div/form/input[1]
+
+Lấy button “Đăng ký”
+/html/body/div/div/form/button
+
+Lấy hàng đầu tiên trong tbody
+/html/body/div/div/table/tbody/tr[1]
+
+Lấy input có placeholder=”Số điện thoại”
+//input[@placeholder = 'Số điện thoại']
+
+Lấy email của “Trần Thị Bình” (hàng 2, cột 2)
+//tr[td[text()='Trần Thị Bình']]/td[2]
+
+Lấy số điện thoại của “Lê Hoàng Cường” (hàng 3, cột 3)
+//tr[td[text()='Lê Hoàng Cường']]/td[3]
+
+Lấy button có class=”btn-register”
+//button[@class='btn-register']
+
+Lấy table có id=”resultTable”
+//table[@id='resultTable']
